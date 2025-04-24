@@ -21,8 +21,8 @@ This project presents a visual analysis of loan application and repayment data, 
 - **Data Cleaning & Transformation**: Used Power Query to handle missing values, standardize column names, and transform raw loan data for analysis.
 - **Data Modeling**: Built a well-structured data model in Power BI, establishing relationships between fact and dimension tables.
 - **DAX (Data Analysis Expressions)**: Created custom measures to calculate key metrics such as:
-  - Default Rate (%)
-  - Average Income by Credit Grade
+  - High Risk And Low Risk(%)
+  - Average Income by Loan Status
   - Total Loans by State
   - Loan Default Breakdown by Purpose
 - **Interactive Visualizations**: Integrated slicers, drill-throughs, and tooltips to enhance user experience and allow for dynamic filtering by credit grade, loan purpose, and geography.
