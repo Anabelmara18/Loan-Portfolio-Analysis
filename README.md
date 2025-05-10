@@ -1,3 +1,16 @@
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Project Objectives](#project-objectives)
+- [Techniques Applied](#Techniques-Applied)
+- [Interactive DashBoard](#Interactive-DashBoard)
+- [Key Insights](#key-insights)
+- [Tools Used](#tools-used)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Author](#author)
+  
 # Loan-Portfolio-Analysis
 An interactive dashboard project that analyzes loan defaults to uncover risk factors related to borrower profiles, loan purposes, and geography. Built with Power BI, this project showcases data modeling, DAX, and storytelling with data for portfolio demonstration.
 
@@ -29,6 +42,7 @@ This project presents a visual analysis of loan application and repayment data, 
 - **Geospatial Analysis**: Applied map visualizations to analyze loan performance across different U.S. states.
 - **Dashboard Design**: Developed a clean, responsive layout that features KPIs, charts, and summaries for easy consumption of insights.
 
+## Interactive Dashboard
 [**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOTBmZGQxOGUtMTYxOC00MzAzLWIxZjgtMGIyNjE5YjllMTg4IiwidCI6ImZlNGY2MDAyLTAzMjktNGI4Yi04NTZmLThhM2YzMGRiYjhkZiJ9)
 
 ## Key Insights
